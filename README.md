@@ -12,3 +12,4 @@ For part B with 3 TAs:
 gcc Part2_101305235_101297902.c -o Part2_101305235_101297902
 ./Part2_101305235_101297902 3
 ```
+For both parts, to adjust the number of TAs, change the '3' in the second line to your desired number of TAs.
