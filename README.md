@@ -1,6 +1,6 @@
 # Part 2
 Program that has TAs mark some exams.
-#Usage
+##Usage
 Download zip and extract. In extracted folder, run the following commands:
 
 For part A with 3 TAs (without semaphores):
